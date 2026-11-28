@@ -15,6 +15,7 @@ Shenyu is a long-term personal open-source series. This repository is the **inde
 | 项目 | 说明 | 状态 | 仓库 |
 |---|---|---|---|
 | **神羽·瑶光 / Yaoguang** | 开源、免登录、可独立运行的 DeepSeek 第三方 Android 客户端（Kotlin + WebView） | 活跃 / Active | [siyan99977-dotcom/yaoguang](https://github.com/siyan99977-dotcom/yaoguang) |
+| **神羽·天权 / Tianquan** | Root 原生 ELF 灵动岛（Vulkan + Dear ImGui） | 源码公开（非商业） / Source-available | [siyan99977-dotcom/tianquan](https://github.com/siyan99977-dotcom/tianquan) |
 | **神羽·灵动岛 / Lingdongdao** | Root 原生系统模块（ELF） | 独立维护 / Separate | 待发布 / Coming soon |
 
 ### 神羽·瑶光
